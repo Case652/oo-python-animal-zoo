@@ -5,10 +5,15 @@ from lib.zoo import Zoo
 
 
 # e.g.  
-
-# z1 = Zoo( 'Micke Grove Zoo', 'Lodi, CA' )
-# a1 = Animal( 'Lion', 75, 'Luke', z1 )
-
+z3 = Zoo("Colordo Zoo", "Devner, CO")
+z1 = Zoo( 'Micke Grove Zoo', 'Lodi, CA' )
+a7 = Animal( 'Lion', 75, 'Luke', z1 )
+a6 = Animal( 'Lion', 75, 'Luke', z1 )
+a5 = Animal( 'Bear', 75, 'Luke', z1 )
+a5 = Animal( 'Bear', 75, 'Luke', z1 )
+a5 = Animal( 'Dog', 75, 'Luke', z1 )
+a5 = Animal( 'Cat', 75, 'Luke', z1 )
+a5 = Animal( 'Cat', 75, 'Luke', z3 )
 
 
 
